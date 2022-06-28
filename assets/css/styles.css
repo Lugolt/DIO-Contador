@@ -1,0 +1,38 @@
+body{
+    background: #e4e4e4;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 900px;
+}
+header{
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+    background-color: antiquewhite;
+    width: 156px;
+    height: 156px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    top: 0;
+    margin: auto;
+    max-width: 900px;
+}
+h1{
+    text-align: center;
+}
+
+button{
+    width: 35px;
+    height: 35px;
+    
+    font-size: 25px;
+}
+
+#currentnumber{
+    font-size: 25px;
+}
+
+
